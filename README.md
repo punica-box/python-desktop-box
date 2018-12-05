@@ -5,7 +5,7 @@
 
 ## 1. Introduction
 
-Welcome to Pikachu Box, a cross platform desktop dapps is waiting for your.
+Welcome to Pikachu Box, a cross platform desktop dapps is waiting for your. Based on Pikachu Box, you can build GUIs for your Python DApp using Electron and web technologies i.e HTML, CSS and JavaScript-this means taking advantage of the latest advancements in front-end web development to build desktop DApp but also taking advantages of Python and the powerful libraries it has to easily implement advanced requirements.
 
 ## 2. Getting started
 
