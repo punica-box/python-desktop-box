@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pikachu Box - Build cross platform desktop dapps with Python, JavaScript, HTML, and CSS</title>
+    <!-- import CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/element-ui@2.4.6/lib/theme-chalk/index.css">
+    {{ JSGlue.include() }}
+    <!-- import favicon -->
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+</head>
+<body>
+<div id="vue-app" style="width:1400px; margin:auto;">
+    <el-tabs type="border-card" stretch>
+        <el-tab-pane label="Tab1">
+
+        </el-tab-pane>
+
+        <el-tab-pane label="Tab2">
+        </el-tab-pane>
+
+        <el-tab-pane label="Tab3">
+        </el-tab-pane>
+
+    </el-tabs>
+</div>
+</body>
+<!-- import Vue before Element -->
+<script src="https://unpkg.com/vue@2.5.17/dist/vue.js"></script>
+<script src="https://unpkg.com/axios@0.18.0/dist/axios.min.js"></script>
+<!-- import JavaScript -->
+<script src="https://unpkg.com/element-ui@2.4.6/lib/index.js"></script>
+<script src="https://unpkg.com/jquery@3.3.1/dist/jquery.min.js"></script>
+<script src="{{ url_for('static', filename='js/index.js') }}"></script>
+</html>
