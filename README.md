@@ -11,7 +11,7 @@ Based on Pikachu Box, you can build GUIs for your Python DApp using Electron and
 
 Why are you called this box Pikachu?
 
-<div align=center><img width="100" src="img/pikachu.png"/></div>
+<div align=center><img width="80" src="img/pikachu.png"/></div>
 
 The reason is simple, I asked my friend [Applenice](https://github.com/Applenice) what's name should I give to this box when I finished this project? My friend said, why not called it Pikachu? you just send me a picture of pikachu.
 
