@@ -7,11 +7,11 @@
 
 Welcome to Pikachu Box, a cross platform desktop dapps is waiting for your.
 
+<div align=center><img width="200" src="src/static/favicon.png"/></div>
+
 Based on Pikachu Box, you can build GUIs for your Python DApp using Electron and web technologies i.e HTML, CSS and JavaScript. This means taking advantage of the latest advancements in front-end web development to build desktop DApp but also taking advantages of Python and the powerful libraries it has to easily implement advanced requirements.
 
 Why are you called this box Pikachu?
-
-<div align=center><img width="80" src="img/pikachu.png"/></div>
 
 The reason is simple, I asked my friend [Applenice](https://github.com/Applenice) what's name should I give to this box when I finished this project? My friend said, why not called it Pikachu? you just send me a picture of pikachu.
 
